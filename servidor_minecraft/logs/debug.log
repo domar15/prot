@@ -2508,3 +2508,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 05:52:54.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
 [12Apr2025 05:52:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
 [12Apr2025 05:54:07.955] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Apr2025 05:58:22.428] [ForkJoinPool.commonPool-worker-8/DEBUG] [SkinRestorer/]: Fetching d0ce3_'s skin
+[12Apr2025 05:58:23.466] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1c749e20 into net.minecraft.network.Connection@368caab7
+[12Apr2025 05:58:25.613] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1321c1ff into net.minecraft.network.Connection@368caab7
+[12Apr2025 05:58:25.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/127.185.83.129:49361] logged in with entity id 3471 at (1145.3795003809648, 64.0, 688.6041713703578)
+[12Apr2025 05:58:25.678] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 0 recipes of the following types: []
+[12Apr2025 05:58:25.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[12Apr2025 05:58:25.711] [Server thread/INFO] [Resource Config API/]: Syncing Server Configs with Client
+[12Apr2025 05:58:25.712] [Server thread/INFO] [Resource Config API/]: Sending data for Config 'resource_backpacks:common/backpacks'
+[12Apr2025 05:58:25.713] [Server thread/INFO] [Resource Config API/]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[12Apr2025 05:58:25.714] [Server thread/INFO] [Resource Config API/]: Sending data for Config 'resource_backpacks:common/entity_config'
+[12Apr2025 05:59:00.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Unlocked 2682 recipe(s) for d0ce3_]
+[12Apr2025 05:59:07.856] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Apr2025 05:59:13.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Unlocked 2682 recipe(s) for zimee777]
+[12Apr2025 06:00:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <d0ce3_> encima esta cagada que se crashea
+[12Apr2025 06:04:07.840] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-31 10:27:58 +0000"
+    },
+    "done": true
+  },
+  "senti:register": {
+    "criteria": {
+      "requirement": "2025-03-31 10:27:58 +0000"
+    },
+    "done": true
+  },
+  "backpacks:tree/root": {
+    "criteria": {
+      "requirement": "2025-03-31 10:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2025-03-31 10:27:59 +0000"
+    },
+    "done": false
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-03-31 10:27:58 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}

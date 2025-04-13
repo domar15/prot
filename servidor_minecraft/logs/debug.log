@@ -2490,3 +2490,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 17:29:19.906] [Server thread/INFO] [Resource Config API/]: Sending data for Config 'resource_backpacks:common/chest_loot'
 [13Apr2025 17:29:19.907] [Server thread/INFO] [Resource Config API/]: Sending data for Config 'resource_backpacks:common/entity_config'
 [13Apr2025 17:34:19.841] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Apr2025 17:39:19.694] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Apr2025 17:44:19.586] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

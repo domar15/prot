@@ -2498,3 +2498,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 17:50:42.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1210, y=75, z=712} BlockPos{x=1209, y=74, z=712}
 [13Apr2025 17:50:51.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1205, y=74, z=708} BlockPos{x=1205, y=74, z=709}
 [13Apr2025 17:54:19.654] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Apr2025 17:58:06.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[13Apr2025 17:58:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[13Apr2025 17:59:06.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[13Apr2025 17:59:06.211] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
